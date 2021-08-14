@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+" General Kenobi "
+
+:smiley_cat: I am a student at SMK Telkom Malang
+
+so, curently this is my first try making my readme, hope you like it 😄
+
+you can contact on : 📫 asthiseta@gmail.com or https://www.instagram.com/asthi_21_/
 
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
