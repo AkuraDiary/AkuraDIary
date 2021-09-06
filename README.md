@@ -12,7 +12,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
 
-[![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkuraDiary&theme=tokyonight)](https://git.io/praveenscience)
+[![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkuraDiary&theme=tokyonight)](https:github.com/AkuraDiary)
 
 🌱 I’m currently learning android in dicoding.com with kotlin
 
