@@ -13,7 +13,7 @@
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=github_dark&layout=compact)
 
 
-[![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkuraDiary&theme=react-dark)](https:github.com/AkuraDiary)
+[![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkuraDiary&theme=react-dark)](AkuraDiary)
 
 🌱 I’m currently learning android in dicoding.com with kotlin
 
