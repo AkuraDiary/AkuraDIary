@@ -21,6 +21,8 @@
 ## Check out my latest project with my friend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=Dulin&theme=github_dark)](https://github.com/raviolini/Dulin)
+### for you guys that searching for ukl
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season2&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season2)
 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
