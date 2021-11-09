@@ -12,11 +12,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight_duo" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=github_dark&layout=compact)
 
-
 [![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkuraDiary&theme=react-dark)](AkuraDiary)
 
 🌱 I’m currently learning android in dicoding.com with kotlin
-
 
 ## Check out my latest project with my friend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
