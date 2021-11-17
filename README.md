@@ -13,7 +13,7 @@
 
 [![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkuraDiary&theme=react-dark)](AkuraDiary)
 
-🌱 I’m currently learning and confused
+## 🌱 I’m currently learning and confused
 
 ## Check out my latest project with my friend
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
