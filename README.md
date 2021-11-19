@@ -32,7 +32,7 @@
 [![Behance Badge](https://img.shields.io/badge/-asthi21-053eff?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/asthi21)](https://www.behance.net/asthi21) 
 [![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-asthi-seta-ari-yuwana-aa17261bb/)](https://www.linkedin.com/in/muhammad-asthi-seta-ari-yuwana-aa17261bb/)
 [![DevianArt Badge](https://img.shields.io/badge/-Asthi21-2F4B2F?style=flat-square&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/asthi21)](https://www.deviantart.com/asthi21)
-
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281214747968)
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
