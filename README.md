@@ -36,7 +36,7 @@
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
-![](https://komarev.com/ghpvc/?username=AkuraDiary&color=blue)
+![](https://komarev.com/ghpvc/?username=AkuraDiary&color=blue&label=PROFILE+VIEWS)
 
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
