@@ -1,5 +1,8 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
+<!--trap-->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 > i suggest to read my bio while [listening to this](https://www.youtube.com/watch?v=mIZOc4ntWSE)
 
 <!--BIO-->
@@ -12,8 +15,9 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 
 > if u know the reference, congrats
 
-
+<!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## 🌱 I’m currently learning and confused
 
 ## Check out my latest project with my friend 🚧
