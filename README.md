@@ -46,6 +46,8 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281214747968)
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary)
+[![GitHub Portfolio](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://akuradiary.github.io/)
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 <!--
