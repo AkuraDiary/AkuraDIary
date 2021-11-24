@@ -3,7 +3,7 @@
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-> i suggest to read my bio while [listening to this](https://www.youtube.com/watch?v=mIZOc4ntWSE)
+> I suggest you to read my bio while [listening to this](https://www.youtube.com/watch?v=mIZOc4ntWSE)
 
 <!--BIO-->
 My name is `Asthi Seta`. I’m `17 years old`. My house is in `East Java, Indonesia`, 
@@ -13,7 +13,7 @@ I'm a `student at Telkom Malang Vocational High School`, I don’t smoke. I’m 
 I was told there were no issues at my last check-up. I’m trying to explain that `I’m a person who wishes to live a very quiet life`. I take care not to trouble myself with any enemies, like winning and losing, that would cause me to lose sleep at night. That is how I deal with society, and `I know that is what brings me happiness`. Although, if I were to fight I wouldn’t lose to anyone.
 <!--BIO-->
 
-> if u know the reference, congrats
+> If you know the reference, congrats
 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
