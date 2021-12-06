@@ -19,6 +19,7 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🌱 I’m currently learning and confused
+## 🤔 I’m looking for help with my anxiety
 
 ## Check out my latest project with my friend 🚧
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
