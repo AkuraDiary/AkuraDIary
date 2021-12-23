@@ -45,6 +45,12 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=AkuraDiary&theme=darkhub" />
 </p>
+[MTA CERT](https://github.com/AkuraDiary/AkuraDiary/blob/main/mta-introduction-to-programming-using-java-certified-2021.png)
+
+
+
+<!--(https://www.credly.com/badges/4e0a6067-317b-4e78-bbce-1865a5d99612/public_url)-->
+
 
 ## Contact me 📫:
 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](mailto:asthiseta@gmail.com)
