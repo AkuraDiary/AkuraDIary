@@ -45,7 +45,7 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=AkuraDiary&theme=darkhub" />
 </p>
-[MTA CERT](https://github.com/AkuraDiary/AkuraDiary/blob/main/mta-introduction-to-programming-using-java-certified-2021.png)
+<img src ="https://github.com/AkuraDiary/AkuraDiary/blob/main/mta-introduction-to-programming-using-java-certified-2021.png"  width = 73px />
 
 
 
