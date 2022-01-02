@@ -65,10 +65,10 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 
 <h5>Here's some snack 🍪🥛</h5>
-<h5>Ps : If you Know someone or something that can do magic, pls i want to be a frog 🐸, for like a month or two</h5>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary)
 [![GitHub Portfolio](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://akuradiary.github.io/)
+<h5>Ps : If you Know someone or something that can do magic, pls i want to be a frog 🐸, for like a month or two</h5>
 <h5 align="center">Made with ❤️ by Me (probably)</h5>
 
 <!--
