@@ -20,7 +20,7 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 
 ## 🌱 I’m currently learning android with jetpack on dicoding
 ## 🎨 I also made some NFT [here🎨](https://opensea.io/Asthi21)
-## 🤔 I’m looking for help with my anxiety
+## 🤔 I’m looking for help to cure my anxiety
 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
