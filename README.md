@@ -69,7 +69,7 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary)
 [![GitHub Portfolio](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://akuradiary.github.io/)
 
-<h5 align="center">Made with ❤️ by Me (sure, it's me)</h5>
+<h5 align="center">Made with ❤️ by Me (sure, it's me, or is it 🤨)</h5>
 <h5>Ps : If you Know someone or something that can do magic, pls i want to be a frog 🐸, for like a month or two</h5>
 
 <!--
