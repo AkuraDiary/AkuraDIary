@@ -33,7 +33,7 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Latihan-Android&theme=github_dark)](https://github.com/AkuraDiary/Latihan-Android)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=LatihanAndroidSekolah&theme=github_dark)](https://github.com/AkuraDiary/LatihanAndroidSekolah)
 
-> ## Check out UKL the series 🎞️
+> ## For you guys, SMK Telkom Malang Students, here's my UKL Trilogy 🎞️
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season1&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season2&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season3&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season3)
@@ -75,13 +75,12 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281214747968)
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 
-<h5>Here's some snack 🍪🥛</h5>
+<h5>Here's some snack 🍪🥛 for you ❤️</h5>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary)
 [![GitHub Portfolio](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://akuradiary.github.io/)
 
 <h5 align="center">Made with ❤️ by Me (sure, it's me, or is it 🤨)</h5>
-<h5>Ps : If you Know someone or something that can do magic, pls i want to be a frog 🐸, for like a month or two</h5>
 
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
