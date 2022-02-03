@@ -77,10 +77,15 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 
 <h5>Here's some snack <a href="https://github.com/Nabila-JF">🍪🥛</a> for you ❤️</h5>
 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary)
 [![GitHub Portfolio](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://akuradiary.github.io/)
 
-<h5 align="center">Made With ❤️ by Me for You</h5>
+
+<h5 align="center">Yesterday Was too Good to be Monday.
+But today Isn't a good day.
+And tomorrow I Hope that it'll be okay.</h5>
+<h5 align="center">Made With ❤️ by Me just for You</h5>
 
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
