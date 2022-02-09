@@ -20,7 +20,7 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 
 ## 🌱 I’m currently learning android and searching for internship
 ## 🎨 I also made some NFT [here🎨](https://opensea.io/Asthi21)
-## 🤔 I’m looking for help with "Cannot reach ADB server, attempting to reconnect." like, for real, i've been stuck in there for 3 days
+## 🤔 I’m looking for help with "Cannot reach ADB server, attempting to reconnect." like, for real, i've been stuck in there for about 3 days since my android studio updated into bumblebee
 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
