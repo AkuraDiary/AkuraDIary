@@ -35,6 +35,9 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 > ## Check out my own latest project 🚧
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=sigma-ciphers-cryptograms&theme=github_dark)](https://github.com/AkuraDiary/sigma-ciphers-cryptograms)
 
+> ## Check out my learning repos 🚧
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-VS&theme=github_dark)](https://github.com/AkuraDiary/Belajar-VS)
+
 > ## Check out my android learning repo 🛰️
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-Jetpack-Pro&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-Jetpack-Pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Latihan-Android&theme=github_dark)](https://github.com/AkuraDiary/Latihan-Android)
