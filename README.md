@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋 <!--<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">--> </h1>
+<h1 align="center"><img height="90" src="https://media.giphy.com/media/C4xJKyzipe50gY6yql/giphy.gif"/> Hello There <!--👋--> <img height="90" src="https://media.giphy.com/media/C4xJKyzipe50gY6yql/giphy.gif"/> </h1>
 
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -81,7 +81,6 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 
 <h5>Here's some snack <a href="https://github.com/Nabila-JF">🍪🥛</a> for you ❤️</h5>
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary)
 [![GitHub Portfolio](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://akuradiary.github.io/)
