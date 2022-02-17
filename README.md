@@ -26,7 +26,7 @@ I was told there were no issues at my last check-up. I’m trying to explain tha
 <!--trap-->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-> ## For you guys, SMK Telkom Malang Students, here's my UKL Trilogy 🎞️
+> ## For you guys, SMK Telkom Malang Students, here are my UKL Trilogy 🎞️
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season1&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season2&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season3&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season3)
