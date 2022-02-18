@@ -30,7 +30,7 @@ Also on 3d Design, but i don't have the proper device.
 
 
 <details>
-  <summary>My latest project with fellow friends 🚧</summary>
+  <summary>My latest project with my fellow friends 🚧</summary>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=KKM&theme=github_dark)](https://github.com/raviolini/KKM)
   
@@ -44,14 +44,9 @@ Also on 3d Design, but i don't have the proper device.
 
 
 <details>
-  <summary>My Check out my Visual Basics learning repos 🚧</summary>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-VS&theme=github_dark)](https://github.com/AkuraDiary/Belajar-VS)
-
-</details>
-
-<details>
-  <summary>My android learning repo 🛰️</summary>
+  <summary>My android learning repos 🛰️</summary>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-MADE&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-MADE)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-Jetpack-Pro&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-Jetpack-Pro)
   
@@ -59,6 +54,13 @@ Also on 3d Design, but i don't have the proper device.
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=LatihanAndroidSekolah&theme=github_dark)](https://github.com/AkuraDiary/LatihanAndroidSekolah)
   
+</details>
+
+<details>
+  <summary>My Visual Basics learning repo 🚧</summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-VS&theme=github_dark)](https://github.com/AkuraDiary/Belajar-VS)
+
 </details>
 
 <details>
