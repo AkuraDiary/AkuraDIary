@@ -27,25 +27,50 @@ Also on 3d Design, but i don't have the proper device.
 
 ## My Projects so far 🧰
 <!--Projects-->
-> ## Check my latest project with fellow friends 🚧
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=KKM&theme=github_dark)](https://github.com/raviolini/KKM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=sigma-ciphers-cryptograms&theme=github_dark)](https://github.com/AkuraDiary/sigma-ciphers-cryptograms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=Dulin&theme=github_dark)](https://github.com/raviolini/Dulin)
 
-> ## Check out my Visual Basics learning repos 🚧
+
+<details>
+  <summary>My latest project with fellow friends 🚧</summary>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=KKM&theme=github_dark)](https://github.com/raviolini/KKM)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=sigma-ciphers-cryptograms&theme=github_dark)](https://github.com/AkuraDiary/sigma-ciphers-cryptograms)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=Dulin&theme=github_dark)](https://github.com/raviolini/Dulin)
+  
+</details>
+
+
+<details>
+  <summary>My Check out my Visual Basics learning repos 🚧</summary>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-VS&theme=github_dark)](https://github.com/AkuraDiary/Belajar-VS)
 
-> ## Check out my android learning repo 🛰️
+</details>
+
+<details>
+  <summary>My android learning repo 🛰️</summary>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-Jetpack-Pro&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-Jetpack-Pro)
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Latihan-Android&theme=github_dark)](https://github.com/AkuraDiary/Latihan-Android)
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=LatihanAndroidSekolah&theme=github_dark)](https://github.com/AkuraDiary/LatihanAndroidSekolah)
+  
+</details>
 
+<details>
+  <summary>For you guys, SMK Telkom Malang Students, here are my UKL Trilogy 🎞️</summary>
 
-> ## For you guys, SMK Telkom Malang Students, here are my UKL Trilogy 🎞️
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season1&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season1)
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season2&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season2)
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season3&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season3)
+  
+</details>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
