@@ -9,12 +9,14 @@ I'm a `student at Telkom Malang Vocational High School`, I don’t smoke.
 I mainly interested in Android app developement with Kotlin, python, illustrations and graphic design.
 Also on 3d Design, but i don't have the proper device.
 
-- 🔭 I’m currently working on <a href="https://github.com/raviolini/KKM">KKM Android project with my Friends</a>
+- 🔭 I’m currently working on <a href="https://github.com/raviolini/KKM">KKM app Android project with my Friends</a>
 - 🌱 I’m currently learning Android Jetpack Pro Class in Dicoding and Visual Basics
 - 👯 I’m looking to collaborate on Android app developement with kotlin or anything with python
 
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkuraDiary&theme=github_dark)
 ![Metrics](https://metrics.lecoq.io/AkuraDiary?template=classic&base.repositories=0&languages=1&notable=1&posts=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&posts.source=hashnode&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FJakarta)
-
+-->
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -49,14 +51,14 @@ Also on 3d Design, but i don't have the proper device.
 
 ## By the way here are some of my statistics 🚀
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=github_dark)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight_duo" alt="mystreak"/>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkuraDiary&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkuraDiary&theme=github_dark)
 
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=github_dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight_duo" alt="mystreak"/>
+
 <!--![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=github_dark&layout=compact)-->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkuraDiary&theme=github_dark)
+
 [![AkuraDiary's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkuraDiary&theme=react-dark)](AkuraDiary)
 
 <!--trap-->
