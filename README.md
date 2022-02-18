@@ -12,6 +12,9 @@ Also on 3d Design, but i don't have the proper device.
 - 🔭 I’m currently working on <a href="https://github.com/raviolini/KKM">KKM Android project with my Friends</a>
 - 🌱 I’m currently learning Android Jetpack Pro Class in Dicoding and Visual Basics
 - 👯 I’m looking to collaborate on Android app developement with kotlin or anything with python
+
+![Metrics](https://metrics.lecoq.io/AkuraDiary?template=classic&base.repositories=0&languages=1&notable=1&posts=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&posts.source=hashnode&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FJakarta)
+
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
