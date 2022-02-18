@@ -60,7 +60,6 @@ Also on 3d Design, but i don't have the proper device.
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-
 ## Reach me 📫:
 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](mailto:asthiseta@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
@@ -69,5 +68,5 @@ Also on 3d Design, but i don't have the proper device.
 [![DevianArt Badge](https://img.shields.io/badge/-Asthi21-2F4B2F?style=flat-square&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/asthi21)](https://www.deviantart.com/asthi21)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281214747968)
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary)
 <h5 align="center">Made With ❤️ by Me </h5>
