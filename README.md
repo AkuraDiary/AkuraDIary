@@ -6,7 +6,7 @@
 Hello, you can call me `Asthi Seta`. I’m `17 years old`. My house is in `East Java, Indonesia`, 
 
 I'm a `student at Telkom Malang Vocational High School`, I don’t smoke.
-I mainly interested in Android developement with Kotlin, python, illustrations and graphic design.
+I mainly interested in Android app developement with Kotlin, python, illustrations and graphic design.
 Also on 3d Design, but i don't have the proper device.
 
 - 🔭 I’m currently working on <a href="https://github.com/raviolini/KKM">KKM Android project with my Friends</a>
