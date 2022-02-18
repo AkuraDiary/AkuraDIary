@@ -10,7 +10,7 @@ I mainly interested in Android app developement with Kotlin, python, illustratio
 Also on 3d Design, but i don't have the proper device.
 
 - 🔭 I’m currently working on <a href="https://github.com/raviolini/KKM">KKM app Android project with my Friends</a>
-- 🌱 I’m currently learning Android Jetpack Pro Class in Dicoding and Visual Basics
+- 🌱 I’m currently learning MADE (Menjadi Android Developer Expert) Class in Dicoding and Visual Basics
 - 👯 I’m looking to collaborate on Android app developement with kotlin or anything with python
 
 <!--
