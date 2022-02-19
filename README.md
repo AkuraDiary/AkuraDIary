@@ -64,7 +64,7 @@ Also on 3d Design, but i don't have the proper device.
 </details>
 
 <details>
-  <summary>For you guys, SMK Telkom Malang Students, here are my UKL Trilogy 🎞️</summary>
+  <summary>For you guys, my fellow SMK Telkom Malang friends, here are my UKL Trilogy 🎞️</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season1&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season1)
   
