@@ -33,11 +33,8 @@ Also on 3d Design, but i don't have the proper device.
   <summary>My latest project with my fellow friends 🚧</summary>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=KKM&theme=github_dark)](https://github.com/raviolini/KKM)
-  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=sigma-ciphers-cryptograms&theme=github_dark)](https://github.com/AkuraDiary/sigma-ciphers-cryptograms)
-  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
-  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=Dulin&theme=github_dark)](https://github.com/raviolini/Dulin)
   
 </details>
@@ -47,11 +44,8 @@ Also on 3d Design, but i don't have the proper device.
   <summary>My android learning repos 🛰️</summary>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-MADE&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-MADE)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-Jetpack-Pro&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-Jetpack-Pro)
-  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Latihan-Android&theme=github_dark)](https://github.com/AkuraDiary/Latihan-Android)
-  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=LatihanAndroidSekolah&theme=github_dark)](https://github.com/AkuraDiary/LatihanAndroidSekolah)
   
 </details>
@@ -65,11 +59,9 @@ Also on 3d Design, but i don't have the proper device.
 
 <details>
   <summary>For you guys, my fellow SMK Telkom Malang friends, here are my UKL Trilogy 🎞️</summary>
-
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season1&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season1)
-  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season2&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season2)
-  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season3&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season3)
   
 </details>
