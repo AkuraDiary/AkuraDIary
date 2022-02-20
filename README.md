@@ -88,7 +88,7 @@ Also on 3d Design, but i don't have the proper device.
 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](mailto:asthiseta@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
 [![Behance Badge](https://img.shields.io/badge/-asthi21-053eff?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/asthi21)](https://www.behance.net/asthi21) 
-[![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-asthi-seta-ari-yuwana-aa17261bb/)](https://www.linkedin.com/in/muhammad-asthi-seta-ari-yuwana-aa17261bb/)
+[![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asthiseta)](https://www.linkedin.com/in/asthiseta)
 [![DevianArt Badge](https://img.shields.io/badge/-Asthi21-2F4B2F?style=flat-square&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/asthi21)](https://www.deviantart.com/asthi21)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281214747968)
 
