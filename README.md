@@ -91,6 +91,7 @@ Also on 3d Design, but i don't have the proper device.
 [![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asthiseta)](https://www.linkedin.com/in/asthiseta)
 [![DevianArt Badge](https://img.shields.io/badge/-Asthi21-2F4B2F?style=flat-square&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/asthi21)](https://www.deviantart.com/asthi21)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281214747968)
+[![Discord Badge](https://dcbadge.vercel.app/api/shield/bot/755314628082401332)](https://discord.com/#Asthi21#5658)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary)
 <h5 align="center">Made With ❤️ by Me </h5>
