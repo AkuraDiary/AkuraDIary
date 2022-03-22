@@ -9,8 +9,8 @@ I'm a `student at Telkom Malang Vocational High School`, I don’t smoke.
 I mainly interested in Android app developement with Kotlin, python, illustrations and graphic design.
 Also on 3d Design, but i don't have the proper device.
 
-- 🔭 I’m currently working on <a href="https://github.com/raviolini/KKM">KKM app Android project with my Friends</a>
-- 🌱 I’m currently learning MADE (Menjadi Android Developer Expert) Class in Dicoding and Visual Basics
+- 🔭 I’m currently working on Android Test Project
+- 🌱 Hey, I just finished MADE (Menjadi Android Developer Expert) Class in Dicoding 
 - 👯 I’m looking to collaborate on Android app developement with kotlin or anything with python
 
 <!--
