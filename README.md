@@ -9,7 +9,7 @@ I'm a `student at Telkom Malang Vocational High School`, I don’t smoke.
 I mainly interested in Android app developement with Kotlin, python, illustrations and graphic design.
 Also on 3d Design, but i don't have the proper device.
 
-- 🔭 I’m currently working on Android Test Project
+- 🔭 I’m currently looking for a project i can working on
 - 🌱 Hey, I just finished MADE (Menjadi Android Developer Expert) Class in Dicoding 
 - 👯 I’m looking to collaborate on Android app developement with kotlin or anything with python
 
@@ -43,7 +43,7 @@ Also on 3d Design, but i don't have the proper device.
 <details>
   <summary>My android learning repos 🛰️</summary>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-MADE&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-MADE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-MADE&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-MADE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-Jetpack-Pro&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-Jetpack-Pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Latihan-Android&theme=github_dark)](https://github.com/AkuraDiary/Latihan-Android)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=LatihanAndroidSekolah&theme=github_dark)](https://github.com/AkuraDiary/LatihanAndroidSekolah)
