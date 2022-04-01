@@ -46,7 +46,7 @@ I mainly interested in Android app development with Kotlin, or desktop app devel
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-MADE&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-MADE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-Jetpack-Pro&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-Jetpack-Pro)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Latihan-Android&theme=github_dark)](https://github.com/AkuraDiary/Latihan-Android)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=LatihanAndroidSekolah&theme=github_dark)](https://github.com/AkuraDiary/LatihanAndroidSekolah)
+
   
 </details>
 
