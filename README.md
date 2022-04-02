@@ -41,14 +41,6 @@ I mainly interested in Android app development with Kotlin, or desktop app devel
 
 
 <details>
-  <summary>My android projects repos 🛰️</summary>
-  
-  TODO
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-MADE&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-MADE) -->
-
-</details>
-
-<details>
   <summary>My android learning repos 🛰️</summary>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-MADE&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-MADE)
@@ -56,6 +48,14 @@ I mainly interested in Android app development with Kotlin, or desktop app devel
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Latihan-Android&theme=github_dark)](https://github.com/AkuraDiary/Latihan-Android)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=LatihanAndroidSekolah&theme=github_dark)](https://github.com/AkuraDiary/LatihanAndroidSekolah)
   
+</details>
+
+<details>
+  <summary>My android projects repos 🛰️</summary>
+  
+  TODO
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-MADE&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-MADE) -->
+
 </details>
 
 <details>
