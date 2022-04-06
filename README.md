@@ -54,11 +54,8 @@ I mainly interested in Android app development with Kotlin, or desktop app devel
   <summary>My android projects repos 🌼</summary>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=KKM&theme=github_dark)](https://github.com/raviolini/KKM)
-  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-Android-MADE&theme=github_dark)](https://github.com/AkuraDiary/Belajar-Android-MADE)
-  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=MarkasTest&theme=github_dark)](https://github.com/AkuraDiary/MarkasTest) 
-  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Submission2MadeDicoding&theme=github_dark)](https://github.com/AkuraDiary/Submission2MadeDicoding) 
 
 </details>
