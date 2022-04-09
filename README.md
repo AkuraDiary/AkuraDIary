@@ -8,7 +8,7 @@ Hello, you can call me `Asthi Seta`. I’m `17 years old`. My house is in `East 
 I'm a `student at Telkom Malang Vocational High School`, I don’t smoke.
 I mainly interested in Android app development with Kotlin, or desktop app development with Python, illustrations and graphic design.
 
-- 🔭 I’m currently looking for a project i can working on
+- 🔭 I’m currently learning Desktop App Development using Visual Studio and C# 👷‍♂️
 - 🌱 Hey, I just finished MADE (Menjadi Android Developer Expert) Class in Dicoding 
 - 👨‍🏫 I'm currently looking for someone who can teach me some Visual Basic
 - 👯 I’m looking to collaborate on Android app developement with kotlin or anything with python
