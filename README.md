@@ -64,7 +64,8 @@ I mainly interested in Android app development with Kotlin, or desktop app devel
   <summary>My Visual Basics learning repo 🚧</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-VS&theme=github_dark)](https://github.com/AkuraDiary/Belajar-VS)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Belajar-VS-C-sharp&theme=github_dark)](https://github.com/AkuraDiary/Belajar-VS-C-sharp)
+  
 </details>
 
 <details>
