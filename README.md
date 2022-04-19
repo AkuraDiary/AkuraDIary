@@ -12,7 +12,7 @@ I mainly interested in Android app development with Kotlin, or desktop app devel
 - 🔭 I’m currently learning and need help in Desktop App Development using Visual Studio and C# 👷‍♂️
 - 🔭 I'm also looking for help to setting up Microsoft MySQL server and creating API from it, feel free to dm me 😸
 - 🌱 Hey, I just finished MADE (Menjadi Android Developer Expert) Class in Dicoding 
-- 👨‍🏫 I'm currently looking for someone who can teach me some Visual Basic
+- 👨‍🏫 I'm currently looking for someone who can teach me some Visual Basic with C# and Microsoft SQL Server
 - 👯 I’m looking to collaborate on Android app developement with kotlin or anything with python
 ```
 
