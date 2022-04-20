@@ -8,6 +8,8 @@ Hello, you can call me `Asthi Seta`. I’m `17 years old`. My house is in `East 
 I'm a `student at Telkom Malang Vocational High School`, I don’t smoke.
 I mainly interested in Android app development with Kotlin, or desktop app development with Python, illustrations and graphic design.
 
+And also kinda interested in some cybersecurity stuffs
+
 ```
 - 🔭 I’m currently learning and need help in Desktop App Development using Visual Studio and C# 👷‍♂️
 - 🔭 I'm also looking for help to setting up Microsoft MySQL server and creating API from it, feel free to dm me 😸
