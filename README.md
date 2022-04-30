@@ -13,7 +13,7 @@ And also kinda interested in some cybersecurity stuffs
 ```
 - 🔭 I’m currently learning and need help in Desktop App Development using Visual Studio and C# 👷‍♂️
 - 🔭 I'm also looking for help to setting up Microsoft MySQL server and creating API from it, feel free to dm me 😸
-- 🌱 Hey, I just finished MADE (Menjadi Android Developer Expert) Class in Dicoding 
+- 🌱 Curently learning Flutter, 'cause i think it's fun
 - 👨‍🏫 I'm currently looking for someone who can teach me some Visual Basic with C# and Microsoft SQL Server
 - 👯 I’m looking for someone to teach me some flutter basic
 - 👯 I’m looking to collaborate on Android app developement with kotlin or anything with python
