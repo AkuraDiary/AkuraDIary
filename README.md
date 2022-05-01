@@ -6,9 +6,9 @@
 Hello, you can call me `Asthi Seta`. I’m `17 years old`. My house is in `East Java, Indonesia`, 
 
 I'm a `student at Telkom Malang Vocational High School`, I don’t smoke.
-I mainly interested in Android app development with Kotlin, or desktop app development with Python, illustrations and graphic design.
+I mainly interested in Android app development with Kotlin, or desktop app development with Python, illustrations and graphic design. And currently learning Flutter.
 
-And also kinda interested in some cybersecurity stuffs
+Also kinda interested in some cybersecurity stuffs
 
 ```
 - 🔭 I’m currently learning and need help in Desktop App Development using Visual Studio and C# 👷‍♂️
