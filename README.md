@@ -31,7 +31,7 @@ Also kinda interested in some cybersecurity stuffs
 -->
 <!--BIO-->
 
-## My Projects so far 🧰
+## My Remarkable Projects so far 🧰
 <!--Projects-->
 
 
