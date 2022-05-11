@@ -75,12 +75,12 @@ Also kinda interested in some cybersecurity stuffs
 </details>
 
 <details>
-  <summary>For you guys, my fellow SMK Telkom Malang friends, here are my UKL Trilogy 🎞️</summary>
+  <summary>For you guys, my fellow SMK Telkom Malang friends, here are my UKL Tetralogy 🎞️</summary>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season1&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season2&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season3&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season3)
-  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=UKL-Season4&theme=github_dark)](https://github.com/AkuraDiary/UKL-Season4)
 </details>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
