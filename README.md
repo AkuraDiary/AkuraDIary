@@ -11,7 +11,7 @@ I mainly interested in Android app development with Kotlin, or desktop app devel
 Also kinda interested in some cybersecurity stuffs
 
 ```
-- 🔭 I’m currently learning and need help in Desktop App Development using Visual Studio and C# 👷‍♂️
+- 🔭 I’m currently learning Flutter on IdCamp 2022 Multiplatform Learning Path 👷‍♂️
 - 🔭 I'm also looking for help to setting up Microsoft MySQL server and creating API from it, feel free to dm me 😸
 - 🌱 Curently learning Flutter, 'cause i think it's fun
 - 👨‍🏫 I'm currently looking for someone who can teach me some Visual Basic with C# and Microsoft SQL Server
