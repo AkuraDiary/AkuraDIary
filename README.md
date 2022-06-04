@@ -8,7 +8,7 @@ Hello, you can call me `Asthi Seta`. I’m `17 years old`. My house is in `East 
 I'm a `student at Telkom Malang Vocational High School`, I don’t smoke.
 I mainly interested in Android app development with Kotlin, or desktop app development with Python, illustrations and graphic design. And currently learning Flutter.
 
-Also kinda interested in some cybersecurity stuffs
+Also kinda interested in some cybersecurity stuffs and Flutter
 
 ```
 - 🔭 I’m currently learning Flutter on IdCamp 2022 Multiplatform Learning Path 👷‍♂️
