@@ -104,12 +104,12 @@ Also kinda interested in some cybersecurity stuffs.
 ## Reach me 📫:
 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](mailto:asthiseta@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
-[![Behance Badge](https://img.shields.io/badge/-asthi21-053eff?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/asthi21)](https://www.behance.net/asthi21) 
-[![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asthiseta)](https://www.linkedin.com/in/asthiseta)
-[![DevianArt Badge](https://img.shields.io/badge/-Asthi21-2F4B2F?style=flat-square&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/asthi21)](https://www.deviantart.com/asthi21)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281214747968)
-[![Discord Badge](https://img.shields.io/badge/-Asthi21-5663F7?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/#Asthi21#5658)
-[![Gitlab Badge](https://img.shields.io/badge/-AkuraDiary-white?style=flat-square&logo=Gitlab&link=https://gitlab.com/AkuraDiary/)](https://gitlab.com/AkuraDiary)
+[![Behance Badge](https://img.shields.io/badge/-asthi21-053eff?style=flat-roundedrectangle&logo=behance&logoColor=white&link=https://www.behance.net/asthi21)](https://www.behance.net/asthi21) 
+[![Linkedin Badge](https://img.shields.io/badge/-asthiseta-blue?style=flat-roundedrectangle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asthiseta)](https://www.linkedin.com/in/asthiseta)
+[![DevianArt Badge](https://img.shields.io/badge/-Asthi21-2F4B2F?style=flat-roundedrectangle&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/asthi21)](https://www.deviantart.com/asthi21)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-roundedrectangle&logo=whatsapp&logoColor=white)](https://wa.me/6281214747968)
+[![Discord Badge](https://img.shields.io/badge/-Asthi21-5663F7?style=flat-roundedrectangle&logo=Discord&logoColor=white)](https://discord.com/#Asthi21#5658)
+[![Gitlab Badge](https://img.shields.io/badge/-AkuraDiary-white?style=flat-roundedrectangle&logo=Gitlab&link=https://gitlab.com/AkuraDiary/)](https://gitlab.com/AkuraDiary)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary)
 <h5 align="center">Made With ❤️ by Me </h5>
