@@ -30,6 +30,7 @@ Also kinda interested in some cybersecurity stuffs.
 - 😄 Pronouns: ...
 -->
 <!--BIO-->
+##Checkout my WIP personal projects 🚧
 
 ## My Remarkable Projects so far 🧰
 <!--Projects-->
