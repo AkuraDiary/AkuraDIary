@@ -5,12 +5,11 @@
 <!--BIO-->
 Hello, you can call me `Asthi Seta`. I’m `17 years old`. My house is in `East Java, Indonesia`, 
 
-I'm a `student at Telkom Malang Vocational High School`, I don’t smoke.
-I mainly interested in Android app development with Kotlin, or desktop app development with Python, illustrations and graphic design. And currently learning Flutter  on [Dicoding](https://www.dicoding.com/)
+I'm a `student at Telkom Malang Vocational High School`, mainly interested in Android app development with Kotlin, or desktop app development, Python, illustrations and graphic design. And currently learning Flutter  on [Dicoding](https://www.dicoding.com/)
 
 Also kinda interested in some cybersecurity stuffs.
 
-### Currently im an intern, so spent my time more on gitlab
+### Currently, im an intern, so spent my time more on gitlab
 ```
 - 🔭 I’m currently learning Flutter on IdCamp 2022 Multiplatform Learning Path 👷‍♂️
 - 🔭 I'm also looking for help to setting up Microsoft MySQL server and creating API from it, feel free to dm me 😸
