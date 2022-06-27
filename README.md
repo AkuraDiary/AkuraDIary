@@ -30,7 +30,9 @@ Also kinda interested in some cybersecurity stuffs.
 - 😄 Pronouns: ...
 -->
 <!--BIO-->
-##Checkout my WIP personal projects 🚧
+## Checkout my WIP personal projects 🚧
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=my-credential-protector&theme=github_dark)](https://github.com/AkuraDiary/my-credential-protector)
 
 ## My Remarkable Projects so far 🧰
 <!--Projects-->
@@ -40,7 +42,7 @@ Also kinda interested in some cybersecurity stuffs.
   <summary>My latest project with my fellow friends 🚧</summary>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=KKM&theme=github_dark)](https://github.com/raviolini/KKM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=sigma-ciphers-cryptograms&theme=github_dark)](https://github.com/AkuraDiary/sigma-ciphers-cryptograms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=sigma-ciphers-cryptograms&theme=github_dark)](https://github.com/AkuraDiary/sigma_ciphers_cryptograms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=ravioli&theme=github_dark)](https://github.com/raviolini/ravioli)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raviolini&repo=Dulin&theme=github_dark)](https://github.com/raviolini/Dulin)
   
