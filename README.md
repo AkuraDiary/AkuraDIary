@@ -30,7 +30,7 @@ Also kinda interested in some cybersecurity stuffs.
 - 😄 Pronouns: ...
 -->
 <!--BIO-->
-## Checkout my WIP personal projects 🚧
+## Checkout my Latest personal projects 🚧
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=my-credential-protector&theme=github_dark)](https://github.com/AkuraDiary/my-credential-protector)
 
