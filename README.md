@@ -1,6 +1,8 @@
 <h1 align="center"> Hello There! 👋</h1>
 
-<a href="https://www.linkedin.com/in/asthiseta/"><img src="https://media-exp1.licdn.com/dms/image/C5616AQGIxAJM-UXj6Q/profile-displaybackgroundimage-shrink_200_800/0/1651077457371?e=1668038400&v=beta&t=kkMLKzyKUaphpAnGu5QPWqzlIV1hZVSwSdsVoNJZwtA"></a>
+<!--BANNERR-->
+<p align="center"><a href="https://www.linkedin.com/in/asthiseta/"><img src="https://media-exp1.licdn.com/dms/image/C5616AQGIxAJM-UXj6Q/profile-displaybackgroundimage-shrink_200_800/0/1651077457371?e=1668038400&v=beta&t=kkMLKzyKUaphpAnGu5QPWqzlIV1hZVSwSdsVoNJZwtA"></a></p>
+<!--BANNERR-->
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
