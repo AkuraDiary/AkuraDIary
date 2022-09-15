@@ -11,13 +11,10 @@ Hello, you can call me `Asthi Seta`. I’m `18 years old`. My house is in `East 
 
 I'm a `student at Telkom Malang Vocational High School`, mainly interested in Android app development with Kotlin, or desktop app development, Python, illustrations and graphic design. And currently learning Flutter  on [Dicoding](https://www.dicoding.com/)
 
-Also kinda interested in some cybersecurity stuffs.
 
-### Currently, im an intern, so spent my time more on gitlab
 ```
-- 🔭 I’m currently learning Flutter on IdCamp 2022 Multiplatform Learning Path 👷‍♂️
-- 🔭 I'm also looking for help to setting up Microsoft MySQL server and creating API from it, feel free to dm me 😸
-- 🌱 Curently learning Flutter, 'cause i think it's fun
+- 🔭 I'm curently looking for help to setting up Microsoft MySQL server and creating API from it, feel free to dm me 😸
+- 🌱 Curently learning Flutter
 - 👨‍🏫 I'm currently looking for someone who can teach me some Visual Basic with C# and Microsoft SQL Server
 - 👯 I’m looking for someone to teach me some flutter basic
 
