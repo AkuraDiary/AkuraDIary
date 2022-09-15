@@ -16,7 +16,7 @@ I'm a `student at Telkom Malang Vocational High School`, mainly interested in An
 - 🔭 I'm curently looking for help to setting up Microsoft MySQL server and creating API from it, feel free to dm me 😸
 - 🌱 Curently learning Flutter
 - 👨‍🏫 I'm currently looking for someone who can teach me some Visual Basic with C# and Microsoft SQL Server
-- 👯 I’m looking for someone to teach me some flutter basic
+- 👯 I’m looking for someone to teach me some Flutter Fundamentals
 
 ```
 
