@@ -15,22 +15,25 @@ I'm a `student at Telkom Malang Vocational High School` currently getting prepar
 
 
 My main working fields are 
+![Flutter Badge](https://img.shields.io/badge/-Android-green?style=flat-roundedrectangle&logo=Android&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/-Flutter-027DFD?style=flat-roundedrectangle&logo=Flutter)
+![Flutter Badge](https://img.shields.io/badge/-Kotlin-magenta?style=flat-roundedrectangle&logo=Kotlin&logoColor=white)
 
 
-While learning 
+While also learning 
+![Flutter Badge](https://img.shields.io/badge/-SwiftUi-orange?style=flat-roundedrectangle&logo=Swift&logoColor=white)
 
+ 
+ 
+I also like to playing around with 
+![Flutter Badge](https://img.shields.io/badge/-Python-blue?style=flat-roundedrectangle&logo=Python&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/-ASP-purple?style=flat-roundedrectangle&logo=ASP.NET&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/-.NET-magenta?style=flat-roundedrectangle&logo=NET&logoColor=white)
+as a hobby
 
-and playing around with [] [] as a hobby
 <!-- mainly interested in Android app development with Kotlin, or desktop app development, Python, illustrations and graphic design. And currently learning Flutter  on [Dicoding](https://www.dicoding.com/)
  -->
 
-```
-- 🔭 I'm curently looking for help to setting up Microsoft MySQL server and creating API from it, feel free to dm me 😸
-- 🌱 Curently learning Flutter
-- 👨‍🏫 I'm currently looking for someone who can teach me some Visual Basic with C# and Microsoft SQL Server
-- 👯 I’m looking for someone to teach me some Flutter Fundamentals
-
-```
 
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkuraDiary&theme=github_dark)
