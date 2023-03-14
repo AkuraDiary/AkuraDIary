@@ -11,8 +11,16 @@
 <!--BIO-->
 Hello, I'm `Asthi Seta`. I’m `18 years old`. Currently live in  `East Java, Indonesia`, 
 
-I'm a `student at Telkom Malang Vocational High School` while freelancing in some local startup. 
-Main Working Fields
+I'm a `student at Telkom Malang Vocational High School` currently getting prepared to go to college while freelancing in some local startup. 
+
+
+My main working fields are 
+
+
+While learning 
+
+
+and playing around with [] [] as a hobby
 <!-- mainly interested in Android app development with Kotlin, or desktop app development, Python, illustrations and graphic design. And currently learning Flutter  on [Dicoding](https://www.dicoding.com/)
  -->
 
