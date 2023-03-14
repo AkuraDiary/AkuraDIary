@@ -11,7 +11,7 @@
 <!--BIO-->
 Hello, I'm `Asthi Seta`. I’m `18 years old`. Currently live in  `East Java, Indonesia`, 
 
-I'm a `student at Telkom Malang Vocational High School` currently getting prepared to go to college while freelancing in some local startup. 
+I'm a `student at Telkom Malang Vocational High School` currently getting prepared for college while freelancing in some local startup. 
 
 
 My main working fields are 
