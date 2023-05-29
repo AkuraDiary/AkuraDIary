@@ -130,5 +130,7 @@ as a hobby
 [![Discord Badge](https://img.shields.io/badge/-Asthi21-5663F7?style=flat-roundedrectangle&logo=Discord&logoColor=white)](https://discord.com/#Asthi21#5658)
 [![Gitlab Badge](https://img.shields.io/badge/-AkuraDiary-white?style=flat-roundedrectangle&logo=Gitlab&link=https://gitlab.com/AkuraDiary/)](https://gitlab.com/AkuraDiary)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akuradiary&label=Profile%20views&color=0e75b6&style=flat" alt="akuradiary" /> </p>
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary) -->
 <h5 align="center">Made With ❤️ by Me </h5>
