@@ -11,7 +11,7 @@
 <!--BIO-->
 Hello, I'm `Asthi Seta`. I’m `19 years old`. Currently live in  `East Java, Indonesia`, 
 
-I'm a currently `Study at Institute Teknologi Telkom Surabaya (ITTS)` while freelancing and as `Mobile Engineer & App Developer` in some local startup. 
+I'm a Software Engineering student `at Institute Teknologi Telkom Surabaya (ITTS)` while freelancing and as `Mobile Engineer & App Developer` in some local startup. 
 
 
 My main working fields are 
@@ -22,6 +22,7 @@ My main working fields are
 
 While also learning 
 ![Flutter Badge](https://img.shields.io/badge/-SwiftUi-orange?style=flat-roundedrectangle&logo=Swift&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/-JetpackCompose-green?style=flat-roundedrectangle&logo=JetpackCompose&logoColor=white)
 
  
  
