@@ -132,6 +132,8 @@ as a hobby
 [![Gitlab Badge](https://img.shields.io/badge/-AkuraDiary-white?style=flat-roundedrectangle&logo=Gitlab&link=https://gitlab.com/AkuraDiary/)](https://gitlab.com/AkuraDiary)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akuradiary&label=Profile%20views&color=0e75b6&style=flat" alt="akuradiary" /> </p>
+<!-- ![](https://komarev.com/ghpvc/?username=AkuraDiary) -->
+![](https://komarev.com/ghpvc/?username=AkuraDiary&color=purple)
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akuradiary&label=Profile%20views&color=0e75b6&style=flat" alt="akuradiary" /> </p> -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary) -->
 <h5 align="center">Made With ❤️ by Me </h5>
