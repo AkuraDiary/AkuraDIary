@@ -133,7 +133,7 @@ as a hobby
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=AkuraDiary) -->
-![](https://komarev.com/ghpvc/?username=AkuraDiary&color=purple)
+![](https://komarev.com/ghpvc/?username=AkuraDiary)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akuradiary&label=Profile%20views&color=0e75b6&style=flat" alt="akuradiary" /> </p> -->
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AkuraDiary) -->
 <h5 align="center">Made With ❤️ by Me </h5>
