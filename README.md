@@ -23,6 +23,7 @@ My main working fields are
 While also learning 
 ![Flutter Badge](https://img.shields.io/badge/-SwiftUi-orange?style=flat-roundedrectangle&logo=Swift&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/-JetpackCompose-green?style=flat-roundedrectangle&logo=JetpackCompose&logoColor=white)
+![ASM Badge](https://img.shields.io/badge/-Assembly-gold?style=flat-roundedrectangle&logo=ARM&logoColor=white)
 
  
  
@@ -47,6 +48,11 @@ as a hobby
 - 😄 Pronouns: ...
 -->
 <!--BIO-->
+## Checkout my Latest Learning Repository 📑
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=learn-arm64-asm-on-apple-silicon&theme=github_dark)](https://github.com/AkuraDiary/learn-arm64-asm-on-apple-silicon)
+
+
 ## Checkout my Latest personal projects 🚧
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=my-credential-protector&theme=github_dark)](https://github.com/AkuraDiary/my-credential-protector)
