@@ -11,7 +11,7 @@
 <!--BIO-->
 Hello, I'm `Asthi Seta`. I’m `19.5 years old`. Currently live in  `East Java, Indonesia`, 
 
-I'm a Software Engineering student `at Institute Teknologi Telkom Surabaya (ITTS)` while freelancing as a `Mobile Engineer & App Developer` in some local startup. 
+I'm a Software Engineering student `at Telkom University Surabaya` formerly known as Institute Teknologi Telkom Surabaya (ITTS) while freelancing as a `Mobile Engineer & App Developer` in some local startup. 
 
 
 My main working fields are 
