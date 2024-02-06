@@ -53,12 +53,15 @@ as a hobby
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=learn-arm64-asm-on-apple-silicon&theme=github_dark)](https://github.com/AkuraDiary/learn-arm64-asm-on-apple-silicon)
 
 
-## Checkout my Latest personal projects 🚧
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=my-credential-protector&theme=github_dark)](https://github.com/AkuraDiary/my-credential-protector)
 
 ## My Remarkable Projects so far 🧰
 <!--Projects-->
+<details>
+<summary> My Latest fully functional personal projects ⚙️ </summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=my-credential-protector&theme=github_dark)](https://github.com/AkuraDiary/my-credential-protector)
+</details>
 
 
 <details>
