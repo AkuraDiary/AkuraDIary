@@ -49,6 +49,7 @@ as a hobby
 -->
 <!--BIO-->
 ## Checkout my Latest Learning Repository 📑
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=Im-building-an-OS-to-prove-a-point&theme=github_dark)]([https://github.com/AkuraDiary/learn-arm64-asm-on-apple-silicon](https://github.com/AkuraDiary/Im-building-an-OS-to-prove-a-point))
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=learn-arm64-asm-on-apple-silicon&theme=github_dark)](https://github.com/AkuraDiary/learn-arm64-asm-on-apple-silicon)
 
