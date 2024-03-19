@@ -62,7 +62,9 @@ as a hobby
 <!--Projects-->
 <details>
 <summary> My Latest fully functional personal projects ⚙️ </summary>
-
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=build-your-own-retrofit&theme=github_dark)](https://github.com/AkuraDiary/build-your-own-retrofit)
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkuraDiary&repo=my-credential-protector&theme=github_dark)](https://github.com/AkuraDiary/my-credential-protector)
 </details>
 
