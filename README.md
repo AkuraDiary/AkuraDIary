@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--BIO-->
-Hello, I'm `Asthi Seta`. I’m `19.5 years old`. Currently live in  `East Java, Indonesia`, 
+Hello, I'm `Asthi Seta`. I’m `19.9 years old`. Currently live in  `East Java, Indonesia`, 
 
 I'm a Software Engineering student `at Telkom University Surabaya` formerly known as Institute Teknologi Telkom Surabaya (ITTS) while freelancing as a `Mobile Engineer & App Developer` in some local startup. 
 
